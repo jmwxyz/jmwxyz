@@ -20,13 +20,8 @@ Welcome to Jiaming WEN's Home Page!
   
   <h2><font face="Arial"> Notes </font></h2>   
   <br>
-  <h2><font face="Arial"> <a href="/notes-algebra.pdf">Algebra(in Chinese)</a> </font></h2> 
-  <p><a href="/notes-intro.pdf">Intro</a></p>
-  <p><a href="/notes-group.pdf">Group</a></p>
-  <p><a href="/notes-ringandfield.pdf">Ring and Field</a></p>
-  <p><a href="/notes-lattice.pdf">Lattice</a></p>
-  <p><a href="/notes-finitefield.pdf">Finite Field</a></p>
+
   <h2><font face="Arial"> Publications </font></h2>   
 
   <br><br><br><br><br>
-          &copy; Jiaming Wen | Last updated: 10/26/2019
+          &copy; Jiaming Wen | Last updated: 12/29/2019
